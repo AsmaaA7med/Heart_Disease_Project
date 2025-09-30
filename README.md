@@ -6,6 +6,7 @@ It includes preprocessing, exploratory data analysis (EDA), feature selection, s
 
 ## 📂 Project Structure
 Heart_Disease_Project/
+
 ├── data/ # dataset files (not included in repo)
 ├── notebooks/ # Jupyter notebooks (EDA, models, etc.)
 ├── models/ # saved models (joblib/pkl)
