@@ -1,0 +1,4 @@
+LogisticRegression: ROC AUC = 0.9421
+DecisionTree: ROC AUC = 0.8187
+RandomForest: ROC AUC = 0.9102
+SVM: ROC AUC = 0.9226
